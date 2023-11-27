@@ -14,7 +14,7 @@ function App() {
     <>
     
 <Provider store={Store}>
-
+{/* //Thali */}
     <BrowserRouter>
         <Navbar/>
     <Routes>
